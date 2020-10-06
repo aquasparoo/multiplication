@@ -1,2 +1,2 @@
-# multiplication
-1x1
+cin>>a>>b
+cout<<a*b;
